@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "243018582853",
+    "firebase_url": "https://authsign-in.firebaseio.com",
+    "project_id": "authsign-in",
+    "storage_bucket": "authsign-in.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243018582853:android:f718cc19cb94a701",
+        "android_client_info": {
+          "package_name": "studio.in.prakharshuka.googleauthaign_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243018582853-ekgrcvb45tfd6vh6a1n4ht2agt7e4n99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "studio.in.prakharshuka.googleauthaign_in",
+            "certificate_hash": "f462860ff0b5aa47c69fe8ce5b94f83d0071508b"
+          }
+        },
+        {
+          "client_id": "243018582853-nll645qknbqf21cdgl5p4e6m75pr4fir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsRXhIuvGHY7abnJdd6r26H3LGfQO1aSg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243018582853-nll645qknbqf21cdgl5p4e6m75pr4fir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
